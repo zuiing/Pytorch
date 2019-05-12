@@ -29,7 +29,7 @@ Pytorch是一个Python包，提供两个高级功能：
 - 包含自动求导系统的深度神经网络(呃...)
 
 #### 1.4 Why Pytorch？
-Pytorch和Tensorflow的对比，附上一个推荐的[链接](https://zhuanlan.zhihu.com/p/28636490)：  
+Pytorch和Tensorflow的对比，附上一个推荐的[链接](https://zhuanlan.zhihu.com/p/28636490)。  
 
 PyTorch更有利于研究人员、爱好者、小规模项目等快速搞出原型。而TensorFlow更适合大规模部署，特别是需要跨平台和嵌入式部署时。
 
@@ -41,13 +41,14 @@ PyTorch更有利于研究人员、爱好者、小规模项目等快速搞出原�
 - 入门简单
 
 ## 2. Pytorch的安装
-是在不使用anaconda的情况下安装的：
 
-**使用pip安装pytorch及torchvision：**  
+在不使用anaconda的情况下安装的：
+
+#### 2.1 使用pip安装pytorch及torchvision 
 >pip install https://download.pytorch.org/whl/cu90/torch-1.1.0-cp36-cp36m-win_amd64.whl  
 pip install torchvision
 
-**torchvision库简介：**  
+#### 2.2 torchvision库简介
 - torchvisoin是独立于Pytorch的关于图像操作的一些方便工具库；  
 - torchvision的详细介绍：https://pypi.org/project/torchvision/  
 - torchvision主要包括以下几个包：
