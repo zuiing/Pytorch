@@ -61,7 +61,7 @@ Win10 64位 + Python3.6 + Pytorch-1.1.0 (·o·)
 
 ## 4.Pytorch基础概念
 
-### 1.[张量]()
+### 1.[张量](https://github.com/zuiing/Pytorch/blob/master/Task1/Tensor(%E5%BC%A0%E9%87%8F)%E7%BB%83%E4%B9%A0.ipynb)
 Tensors与Numpy中的 ndarrays类似，但是在PyTorch中 Tensors可以使用GPU进行计算。
 
 Tensor是神经网络框架中重要的基础数据类型，可以简单理解为N维数组的容器对象。Tensor之间的通过运算进行连接，从而形成计算图。
@@ -78,5 +78,5 @@ torch.nn模块提供了创建神经网络的基础构件，这些层都继承自
 更详细的张量介绍可参考另一篇[博客](https://blog.csdn.net/zzulp/article/details/80573331)。
 
 ### 5.通用代码实现流程
-根据莫烦大神的视频，通过[关系拟合-回归]()来说明通用代码实现的流程。
+根据莫烦大神的视频，通过[关系拟合-回归](https://github.com/zuiing/Pytorch/blob/master/Task1/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B-%E5%9B%9E%E5%BD%92.ipynb)来说明通用代码实现的流程。
 
