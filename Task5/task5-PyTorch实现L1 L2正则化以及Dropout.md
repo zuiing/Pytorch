@@ -85,7 +85,7 @@ Dropout可以比较有效的缓解过拟合的发生，在一定程度上达到�
 
 '''
 
-## 4. [PyTorch中实现dropout]([https://github.com/zuiing/Pytorch/blob/master/Task5/Dropout%E7%BC%93%E8%A7%A3%E8%BF%87%E6%8B%9F%E5%90%88(ptyorch).ipynb](https://github.com/zuiing/Pytorch/blob/master/Task5/Dropout缓解过拟合(ptyorch).ipynb))
+## 4. [PyTorch中实现dropout]([https://github.com/zuiing/Pytorch/blob/master/Task5/Dropout%E7%BC%93%E8%A7%A3%E8%BF%87%E6%8B%9F%E5%90%88(ptyorch).ipynb](https://github.com/zuiing/Pytorch/blob/master/Task5/Dropout缓解过拟合(ptyorch).ipynb)
 
 '''
 
