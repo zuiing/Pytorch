@@ -77,7 +77,7 @@ PyTorch提供了十个优化器，常用的有SGD、ASGD、Rprop、RMSprop、Ada
 
 参考《[快速上手笔记，PyTorch模型训练实用教程](https://mp.weixin.qq.com/s/c7QEnZ0_NTY1aUaoZ4nT7g)》
 
-## 2. [书写优化器代码]()
+## 2. [书写优化器代码](<https://github.com/zuiing/Pytorch/blob/master/Task6/Optimizer.ipynb>)
 
 
 
